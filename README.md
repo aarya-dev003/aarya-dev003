@@ -1,13 +1,13 @@
 ![banner](https://github.com/aarya-dev003/aarya-dev003/assets/94800583/ac4d75fe-d9b6-489f-b1f0-66b62ae198d4)
 <h1 align="center">Hi 👋, I'm Aarya Gupta</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Back-End and Android developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarya-dev003&label=Profile%20views&color=0e75b6&style=flat" alt="aarya-dev003" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development and DSA**
+- 🌱 I’m currently learning **Back-End Devlopment and DSA**
 
 - 💬 Ask me about **Android, Java, Kotlin**
 
